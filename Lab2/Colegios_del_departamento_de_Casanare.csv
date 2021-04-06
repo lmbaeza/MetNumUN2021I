@@ -1,0 +1,107 @@
+departamento,municipio,nombreinstitucion,sedeinstitucional,codigodane,direccioninstitucion,educacionmediapoblacionfemenina,educacionmediapoblacionmasculina,educacionpreescolarpoblacionfemenina,educacionpreescolarpoblacionmasculina,educacionprimariapoblacionfemenina,educacionprimariapoblacionmasculina,educacionsecundariapoblacionfemenina,educacionsecundariapoblacionmasculina,totalestudiantes
+Casanare,Aguazul,Institución educativa jorge eliecer gaitan,Jorge eliecer gaitan,185010000629,Carrera 19 calle20,119,87,47,43,328,353,349,362,1.688
+Casanare,Trinidad,Institución educativa rafael garcia herreros,Rafael garcia herreros,285430000866,Corregimiento bocas del pauto,8,10,13,8,43,41,32,35,190
+Casanare,Recetor,Institución educativa fernando rodriguez,Institución educativa fernando rodriguez sede principal,185279000013,Recetor centro,13,16,3,2,14,16,39,28,131
+Casanare,Sacama,Institución educativa técnico antonio nariño,Tecnico antonio nariño,185315000084,Sacama centro,17,22,11,1,46,44,48,58,247
+Casanare,Orocue,Institución educativa indigena iea pudi,Indigena iea pudi,285230000292,Resguardo el duya comunidad piñalito,12,12,4,1,18,33,36,51,167
+Casanare,Paz de ariporo,Institución educativa técnico empresarial del norte de casanare itenca,Técnico empresarial del norte de casanare itenca,285250000582,Vereda la barranca,22,28,11,11,71,80,59,73,355
+Casanare,Hato corozal,Institución educativa indigena murewom wayuri,Indigena murewon wayuri,285125000562,Resguardo indigena caño mochuelo,14,22,5,5,73,92,71,51,333
+Casanare,Villanueba,Institución educativa san agustin,San agustin,285440000082,Corregimiento san agustín,14,11,5,11,53,52,38,59,243
+Casanare,Hato corozal,Institución educativa bonifacio gutierrez,Institución educativa bonifacio gutierrez sede principal,285125001429,Corregimiento la chapa,4,6,1,4,18,20,27,22,102
+Casanare,Chameza,Institución educativa jose antonio galan,Institución educativa jose antonio galan sede principal,185015000104,Casco urbano,27,32,9,10,53,51,67,56,305
+Casanare,Aguazul,Institución educativa san agustin,San agustin,185010000505,Calle 9 N° 10 - 37,154,119,48,52,340,310,374,333,1.73
+Casanare,Trinidad,Institución educativa santa irene,Santa irene,285430000734,Vereda santa irene,8,8,2,2,18,25,20,19,102
+Casanare,Monterrey,Institución educativa técnico  diversificado de monterrey,El guafal,285162000289,Calle 5 Carrera 10a,11,9,3,6,23,39,34,30,155
+Casanare,Hato corozal,Institución educativa indigena lisa maneni,Indigena lisa maneni,285125000597,Resguardo caño mochuelo,10,14,8,12,35,42,28,35,184
+Casanare,Hato corozal,Institución educativa simon bolivar el chire,Simon bolivar,285125000422,Vereda la argentina,16,13,3,2,10,22,37,43,146
+Casanare,Hato corozal,Institución educativa horacio perdomo,Institución educativa horacio perdomo sede principal,285125000058,Vereda san jose del ariporo,9,10,6,4,30,35,32,28,154
+Casanare,Hato corozal,Institución educativa indigena alegaxu,Indigena alegaxu,285125001658,Resguardo caño mochuelo,2,7,14,7,49,45,20,31,175
+Casanare,Nunchia,Institución educativa antonio nariño,Antonio nariño,285225000462,Vereda la yopalosa,18,26,12,7,65,51,82,77,338
+Casanare,Paz de ariporo,Institución educativa simon bolivar,Simon bolivar,285250000906,Corregimiento montañas del totumo,15,29,10,10,58,69,51,61,303
+Casanare,Tauramena,Institución educativa el cusiana,El cusiana,285410000649,Corregimiento el cusiana,27,21,17,19,103,101,105,113,506
+Casanare,Paz de ariporo,Institución educativa tecnico industrial el palmar iteipa,Institución educativa técnico industrial el palmar iteipa sede principal,385250001044,Calle 13 Carrera 12,100,79,25,29,106,116,326,251,1.032
+Casanare,Sabanalarga,Institución educativa manuel elkin patarroyo,Manuel elkin patarroyo,285300000112,Corregimiento aguaclara,37,29,5,5,31,59,66,77,309
+Casanare,Aguazul,Institución educativa la turua,Institución educativa la turua sede principal,285010000038,Vereda la turua,16,15,7,9,45,43,63,55,253
+Casanare,Hato corozal,Institución educativa puerto colombia,Institución educativa puerto colombia sede principal,285125001470,Vereda puereto colombia,7,15,3,3,28,35,31,31,153
+Casanare,Tauramena,Institución educativa del llano,Institución educativa del llano sede principal,185410001004,DG 8 N°12 - 96,64,64,34,41,316,275,253,254,1.301
+Casanare,Orocue,Institución educativa el algarrobo,El algarrobo,285230000101,Vereda el algarrobo,19,18,11,14,66,68,67,90,353
+Casanare,Paz de ariporo,Institución educativa francisco jose de caldas,Francisco jose de caldas,185250001053,Calle 5 N°13 - 35,62,40,24,34,160,187,135,163,805
+Casanare,Nunchia,Institución educativa las mercedes,Las mercedes,285225000870,Vereda el caucho,10,13,3,6,13,29,49,31,154
+Casanare,Aguazul,Institución educativa luis maria jimenez,Luis maria jimenez,285010000364,Vereda san jose del bubuy,34,41,17,15,111,128,124,133,603
+Casanare,Monterrey,Institución educativa normal superior de monterrey,Normal superior de monterrey,185162000241,Carrera 4ano19 16,137,72,42,40,237,222,295,195,1.274
+Casanare,Aguazul,Institución educativa leon de greiff,Leon de greiff,285010000640,Vereda monterralo,16,12,5,6,24,27,36,43,169
+Casanare,Aguazul,Institución educativa cupiagua,Institución educativa cupiagua sede principal,285010000259,Vereda cupiagua,21,13,11,7,55,82,64,85,338
+Casanare,Sabanalarga,Institución educativa jorge eliecer gaitan,Eliecer gaitan,185300000380,Barrio centro,50,31,17,15,96,80,96,114,499
+Casanare,Nunchia,Institución educativa el pretexto,El pretexto,285225000039,Vereda el pretexto,4,13,7,7,21,27,27,31,137
+Casanare,Mani,Institución educativa camilo torres restrepo,Institución educativa tecnico agropecuario camilo torres restrepo,285139000107,Corregimiento santa elena del cusiva,12,10,6,6,33,35,40,56,198
+Casanare,Tauramena,Institución educativa jose maria cordoba,Jose maria cordoba,185410000016,Calle 8 N° 10 - 78,189,195,73,61,508,494,412,431,2.363
+Casanare,Trinidad,Institución educativa el convento,El convento,285430000611,Vereda el convento,19,17,6,14,55,64,54,76,305
+Casanare,La salina,Institución educativa jorge eliecer gaitan,Jorge eliecer gaitan,185136000047,Centro,16,22,3,8,27,32,38,60,206
+Casanare,Pore,Institución educativa antonio nariño,Antonio nariño,285263000298,Corregimiento la plata,14,12,8,7,45,53,68,80,287
+Casanare,Orocue,Institución educativa luis carlos galan sarmiento,Institución educativa luis carlos galan sarmiento,185230001090,Barrio la manga,46,29,40,23,230,236,184,166,968
+Casanare,Tamara,Institución educativa colegio técnico la presentación,La presentación,185400000140,Barrio san jose,46,36,15,30,102,98,156,131,614
+Casanare,Paz de ariporo,Institución educativa indigena san jose del ariporo,Institución educativa indigena san jose del ariporo sede principal,285250000574,Resguardo caño mochuelo,3,6,4,10,61,56,22,27,189
+Casanare,Hato corozal,Institución educativa antonio martinez delgado,Antonio martinez delgado,185125000959,Carrera 12 N° 10 - 75,45,35,32,19,141,161,186,177,796
+Casanare,Nunchia,Institución educativa salvador camacho roldan,Salvador camacho roldan,185225000379,Carrera 2 N°4 - 73,45,47,15,22,103,111,129,139,611
+Casanare,Mani,Institución educativa luis enrique baron leal,Gaviotas,285139000069,Inspección de policia gaviotas,2,3,1,2,25,27,35,25,120
+Casanare,San luis de palenque,Institución educativa la presentación,La presentación,185325000597,Calle 7 N° 3 - 17,74,54,21,30,176,197,248,198,998
+Casanare,Trinidad,Institución educativa pozo petrolero,Pozo petrolero,285430000378,Vereda el pozo,23,20,5,6,38,51,52,72,267
+Casanare,Aguazul,Institución educativa cupiagua,Plan cunama las brisas,485010000746,Vereda plan cunama las brisas,7,5,3,2,18,16,14,19,84
+Casanare,Orocue,Institución educativa la inmaculada,La inmaculada,185230000085,DG 5N° 4 - 35,36,36,18,29,169,174,124,124,710
+Casanare,Tauramena,Institución educativa siglo xxi,Siglo xxi,285410000045,Vereda el raizal,24,30,11,18,71,68,72,70,364
+Casanare,Pore,Institución educativa el banco,El banco,285263000034,Vereda el banco,13,10,3,6,25,29,52,42,180
+Casanare,Hato corozal,Institución educativa luis hernandez vargas,Institución educativa luis hernandez vargas sede principal,185125000029,Calle 9 N°10 - 83,50,39,14,20,135,126,135,125,644
+Casanare,Villanueba,Institución educativa fabio riveros,Fabio riveros,185440000053,Carrera 11 N° 14 - 115,162,137,66,63,335,371,414,333,1.881
+Casanare,Aguazul,Institución educativa jorge eliecer gaitan,Jorge eliecer gaitan,185010000629,Carrera 19 calle 20,119,87,47,43,328,353,349,362,1.688
+Casanare,Trinidad,Institución educativa rafael garcia herreros,Rafael garcia herreros,285430000866,Corregimiento bocas del pauto,8,10,13,8,43,41,32,35,190
+Casanare,Recetor,Institución educativa fernando rodriguez,Institución educativa fernando rodriguez sede principal,185279000013,Recetor centro,13,16,3,2,14,16,39,28,131
+Casanare,Sacama,Institución educativa técnico antonio nariño,Tecnico antonio nariño,185315000084,Sacama centro,17,22,11,1,46,44,48,58,247
+Casanare,Orocue,Institución educativa indigena iea pudi,Indigena iea pudi,285230000292,Resguardo el duya comunidad piñalito,12,12,4,1,18,33,36,51,167
+Casanare,Paz de ariporo,Institución educativa técnico empresarial del norte de casanare itenca,Técnico empresarial del norte de casanare itenca,285250000582,Vereda la barranca,22,28,11,11,71,80,59,73,355
+Casanare,Hato corozal,Institución educativa indigena murewom wayuri,Indigena murewon wayuri,285125000562,Resguardo indigena caño mochuelo,14,22,5,5,73,92,71,51,333
+Casanare,Villanueba,Institución educativa san agustin,San agustin,285440000082,Corregimiento san agustín,14,11,5,11,53,52,38,59,243
+Casanare,Hato corozal,Institución educativa bonifacio gutierrez,Institución educativa bonifacio gutierrez sede principal,285125001429,Corregimiento la chapa,4,6,1,4,18,20,27,22,102
+Casanare,Chameza,Institución educativa jose antonio galan,Institución educativa jose antonio galan sede principal,185015000104,Casco urbano,27,32,9,10,53,51,67,56,305
+Casanare,Aguazul,Institución educativa san agustin,San agustin,185010000505,Calle 9 N° 10 - 37,154,119,48,52,340,310,374,333,1.73
+Casanare,Trinidad,Institución educativa santa irene,Santa irene,285430000734,Vereda santa irene,8,8,2,2,18,25,20,19,102
+Casanare,Monterrey,Institución educativa técnico  diversificado de monterrey,El guafal,285162000289,Calle 5 Carrera 10a,11,9,3,6,23,39,34,30,155
+Casanare,Hato corozal,Institución educativa indigena lisa maneni,Indigena lisa maneni,285125000597,Resguardo caño mochuelo,10,14,8,12,35,42,28,35,184
+Casanare,Hato corozal,Institución educativa simon bolivar el chire,Simon bolivar,285125000422,Vereda la argentina,16,13,3,2,10,22,37,43,146
+Casanare,Hato corozal,Institución educativa horacio perdomo,Institución educativa horacio perdomo sede principal,285125000058,Vereda san jose del ariporo,9,10,6,4,30,35,32,28,154
+Casanare,Hato corozal,Institución educativa indigena alegaxu,Indigena alegaxu,285125001658,Resguardo caño mochuelo,2,7,14,7,49,45,20,31,175
+Casanare,Nunchia,Institución educativa antonio nariño,Antonio nariño,285225000462,Vereda la yopalosa,18,26,12,7,65,51,82,77,338
+Casanare,Paz de ariporo,Institución educativa simon bolivar,Simon bolivar,285250000906,Corregimiento montañas del totumo,15,29,10,10,58,69,51,61,303
+Casanare,Tauramena,Institución educativa el cusiana,El cusiana,285410000649,Corregimiento el cusiana,27,21,17,19,103,101,105,113,506
+Casanare,Paz de ariporo,Institución educativa tecnico industrial el palmar iteipa,Institución educativa técnico industrial el palmar iteipa sede principal,385250001044,Calle 13 Carrera 12,100,79,25,29,106,116,326,251,1.032
+Casanare,Sabanalarga,Institución educativa manuel elkin patarroyo,Manuel elkin patarroyo,285300000112,Corregimiento aguaclara,37,29,5,5,31,59,66,77,309
+Casanare,Aguazul,Institución educativa la turua,Institución educativa la turua sede principal,285010000038,Vereda la turua,16,15,7,9,45,43,63,55,253
+Casanare,Hato corozal,Institución educativa puerto colombia,Institución educativa puerto colombia sede principal,285125001470,Vereda puereto colombia,7,15,3,3,28,35,31,31,153
+Casanare,Tauramena,Institución educativa del llano,Institución educativa del llano sede principal,185410001004,DG 8 N° 12 - 96,64,64,34,41,316,275,253,254,1.301
+Casanare,Orocue,Institución educativa el algarrobo,El algarrobo,285230000101,Vereda el algarrobo,19,18,11,14,66,68,67,90,353
+Casanare,Paz de ariporo,Institución educativa francisco jose de caldas,Francisco jose de caldas,185250001053,Calle 5 N° 13 - 35,62,40,24,34,160,187,135,163,805
+Casanare,Nunchia,Institución educativa las mercedes,Las mercedes,285225000870,Vereda el caucho,10,13,3,6,13,29,49,31,154
+Casanare,Aguazul,Institución educativa luis maria jimenez,Luis maria jimenez,285010000364,Vereda san jose del bubuy,34,41,17,15,111,128,124,133,603
+Casanare,Monterrey,Institución educativa normal superior de monterrey,Normal superior de monterrey,185162000241,Carrera 4a N° 19 - 16,137,72,42,40,237,222,295,195,1.274
+Casanare,Aguazul,Institución educativa leon de greiff,Leon de greiff,285010000640,Vereda monterralo,16,12,5,6,24,27,36,43,169
+Casanare,Aguazul,Institución educativa cupiagua,Institución educativa cupiagua sede principal,285010000259,Vereda cupiagua,21,13,11,7,55,82,64,85,338
+Casanare,Sabanalarga,Institución educativa jorge eliecer gaitan,Eliecer gaitan,185300000380,Barrio centro,50,31,17,15,96,80,96,114,499
+Casanare,Nunchia,Institución educativa el pretexto,El pretexto,285225000039,Vereda el pretexto,4,13,7,7,21,27,27,31,137
+Casanare,Mani,Institución educativa camilo torres restrepo,Institución educativa tecnico agropecuario camilo torres restrepo,285139000107,Corregimiento santa elena del cusiva,12,10,6,6,33,35,40,56,198
+Casanare,Tauramena,Institución educativa jose maria cordoba,Jose maria cordoba,185410000016,Calle 8 N° 10 - 78,189,195,73,61,508,494,412,431,2.363
+Casanare,Trinidad,Institución educativa el convento,El convento,285430000611,Vereda el convento,19,17,6,14,55,64,54,76,305
+Casanare,La salina,Institución educativa jorge eliecer gaitan,Jorge eliecer gaitan,185136000047,Centro,16,22,3,8,27,32,38,60,206
+Casanare,Pore,Institución educativa antonio nariño,Antonio nariño,285263000298,Corregimiento la plata,14,12,8,7,45,53,68,80,287
+Casanare,Orocue,Institución educativa luis carlos galan sarmiento,Institución educativa luis carlos galan sarmiento,185230001090,Barrio la manga,46,29,40,23,230,236,184,166,968
+Casanare,Tamara,Institución educativa colegio técnico la presentación,La presentación,185400000140,Barrio san jose,46,36,15,30,102,98,156,131,614
+Casanare,Paz de ariporo,Institución educativa indigena san jose del ariporo,Institución educativa indigena san jose del ariporo sede principal,285250000574,Resguardo caño mochuelo,3,6,4,10,61,56,22,27,189
+Casanare,Hato corozal,Institución educativa antonio martinez delgado,Antonio martinez delgado,185125000959,Carrera 12 N° 10 - 75,45,35,32,19,141,161,186,177,796
+Casanare,Nunchia,Institución educativa salvador camacho roldan,Salvador camacho roldan,185225000379,Carrera 2 N° 4 - 73,45,47,15,22,103,111,129,139,611
+Casanare,Mani,Institución educativa luis enrique baron leal,Gaviotas,285139000069,Inspección de policia gaviotas,2,3,1,2,25,27,35,25,120
+Casanare,San luis de palenque,Institución educativa la presentación,La presentación,185325000597,Calle 7 N° 3 - 17,74,54,21,30,176,197,248,198,998
+Casanare,Trinidad,Institución educativa pozo petrolero,Pozo petrolero,285430000378,Vereda el pozo,23,20,5,6,38,51,52,72,267
+Casanare,Aguazul,Institución educativa cupiagua,Plan cunama las brisas,485010000746,Vereda plan cunama las brisas,7,5,3,2,18,16,14,19,84
+Casanare,Orocue,Institución educativa la inmaculada,La inmaculada,185230000085,DG 5 N° 4 - 35,36,36,18,29,169,174,124,124,710
+Casanare,Tauramena,Institución educativa siglo xxi,Siglo xxi,285410000045,Vereda el raizal,24,30,11,18,71,68,72,70,364
+Casanare,Pore,Institución educativa el banco,El banco,285263000034,Vereda el banco,13,10,3,6,25,29,52,42,180
+Casanare,Hato corozal,Institución educativa luis hernandez vargas,Institución educativa luis hernandez vargas sede principal,185125000029,Calle 9 N° 10 - 83,50,39,14,20,135,126,135,125,644
+Casanare,Villanueba,Institución educativa fabio riveros,Fabio riveros,185440000053,Carrera 11 N° 14 - 115,162,137,66,63,335,371,414,333,1.881
