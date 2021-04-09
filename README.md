@@ -15,3 +15,4 @@
 * LAB 4 QuantConnect
 * LAB 5 QuantConnect ALGO
 * LAB 6 Monte Carlo – 21 Blackjack – Groups
+* LAB7 Introduction to numerical analysis – Week 1 – Peer-graded Assignment: Solve a quadratic equation
