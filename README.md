@@ -15,4 +15,10 @@
 * LAB 4 QuantConnect
 * LAB 5 QuantConnect ALGO
 * LAB 6 Monte Carlo – 21 Blackjack – Groups
-* LAB7 Introduction to numerical analysis – Week 1 – Peer-graded Assignment: Solve a quadratic equation
+* LAB 7 Introduction to numerical analysis – Week 1 – Peer-graded Assignment: Solve a quadratic equation
+* LAB 8 Sequences, series and sums
+* LAB 9 Taylor Series (Groups)
+* LAB 10  Introduction to numerical analysis – Week 1 – Peer-graded Assignment: LU pivoting of a square matrix (Groups)
+* LAB 11  Introduction to numerical analysis – Week 2 – Peer-graded Assignment: QR decomposition of a matrix (Groups)
+* LAB 12  Introduction to numerical analysis – Week 5 – Peer-graded Assignment: Interpolation and approximation. Modeling of data. (Groups in Class)
+* LAB 13 Introduction to numerical analysis – Week 7 – Peer-graded Assignment: Initial value problem for ordinary differential equations.
